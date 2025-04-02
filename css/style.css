@@ -8,6 +8,10 @@ section{width: 100%; min-height: 800px}
 .navbar .nav .nav-item .nav-link:hover , .nav-link:focus{background-color:purple!important; color: white}
 .navbar .nav .nav-item .nav-link:active{background-color: red!important}
 @media (max-width:480px){.navbar{display: flex; justify-content: center; align-item: center} }
+
+.primary-background{background-color: #965924; color: antiquewhite}
+.secondary-background{background-color: antiquewhite;}
+
 /*<!--timeline-->*/
 .timeline {
     list-style: none;
