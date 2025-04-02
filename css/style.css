@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-section{width: 100%; min-height: 800px}
+section{width: 100%; min-height: 500px}
 
 .navbar .navbar-brand{color:rebeccapurple; font-weight: bold}
 .navbar .navbar-brand:hover{color: red}
