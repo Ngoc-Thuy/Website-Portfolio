@@ -6,3 +6,6 @@ var typed = new Typed('.element', {
         		loop:true,
         		});
 $('.counter').countUp();
+
+AOS.init();
+
